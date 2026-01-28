@@ -1,4 +1,4 @@
-# 🪟 My Windows Theme
+# 🪟 Frozen Veil
 
 A custom **Windows 11 theme** built with **Windhawk**,                 
 inspired by [Solid Mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md).
