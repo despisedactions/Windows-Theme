@@ -20,22 +20,22 @@ That’s also why there’s **no Start button**, I use **Flow Launcher** for eve
 ## 🧩 Windhawk Mods & Configs
 
 ### 1. Translucent Windows
-[YAML / Config](./YAML/Translucent%20Windows.yaml)
+[YAML / Config](./Config/Translucent%20Windows.yaml)
 
 ---
 
 ### 2. Windows 11 File Explorer Styler
-[YAML / Config](./YAML/Windows%2011%20File%20Explorer%20Styler.yaml)
+[YAML / Config](./Config/Windows%2011%20File%20ExplorerStyler.yaml)
 
 ---
 
 ### 3. Windows 11 Taskbar Styler
-[YAML / Config](./YAML/Windows%2011%20Taskbar%20Styler.yaml)
+[YAML / Config](./Config/Windows%2011%20Taskbar%20Styler.yaml)
 
 ---
 
 ### 4. Windows 11 Notification Center Styler
-[YAML / Config](./YAML/Windows%2011%20Notification%20Center%20Styler.yaml)
+[YAML / Config](./Config/Windows%2011%20Notification%20Center%20Styler.yaml)
 
 ⚠️ **Important:**  
 Change the style constants `screenfix` and `screenfix2` in the **Settings** tab to match your screen resolution.  
@@ -49,17 +49,17 @@ Change the style constants `screenfix` and `screenfix2` in the **Settings** tab 
 ---
 
 ### 5. Taskbar Clock Customization
-[YAML / Config](./YAML/Taskbar%20Clock%20Customization.yaml)
+[YAML / Config](./Config/Taskbar%20Clock%20Customization.yaml)
 
 ---
 
 ### 6. Taskbar Height & Icon Size
-[YAML / Config](./YAML/Taskbar%20height%20and%20icon%20size.yaml)
+[YAML / Config](./Config/Taskbar%20height%20and%20icon%20size.yaml)
 
 ---
 
 ### 7. Taskbar Music Lounge
-[YAML / Config](./YAML/Taskbar%20height%20and%20icon%20size.yaml)
+[YAML / Config](./Config/Taskbar%20Music%20Lounge.yaml)
 
 ---
 
