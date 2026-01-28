@@ -1,6 +1,6 @@
 # 🪟 My Windows Theme
 
-A custom **Windows 11 theme** built with **Windhawk**, 
+A custom **Windows 11 theme** built with **Windhawk**,                 
 inspired by [Solid Mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md).
 
 I didn’t customize the **Start Menu** because I don’t use it.  
