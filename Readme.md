@@ -7,6 +7,7 @@ A custom Windows theme made with Windhawk, inspired by [solid mist](https://gith
 ![notification center](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Notification%20Center.png)
 ![explorer](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Properties.png)
 ![systemtray & flow](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Flow%20Launcher%20%2B%20Systemtray.png)
+![alt + tab ](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/alt%20%2B%20tab.png)
 
 ### 1. Translucent Windows
 
