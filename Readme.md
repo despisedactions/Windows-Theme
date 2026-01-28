@@ -5,7 +5,7 @@ A custom Windows theme inspired by solid mist.
 
 This theme is not made by me, i just changed it to my liking :) — credit goes to the original **solid mist** theme for inspiration.
 
-🔗 Inspiration: [solid mist Theme](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md)  
+🔗 Inspiration: [solid mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md)  
 
 
 ![desktop](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/desktop.png)
