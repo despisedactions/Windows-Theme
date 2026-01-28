@@ -1,23 +1,12 @@
 
 # My Windows Theme 🪟
 
-A custom Windows theme inspired by solid mist.
+A custom Windows theme inspired by [solid mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md) 
 
-This theme is not made by me, i just changed it to my liking :) — credit goes to the original **solid mist** theme for inspiration.
-
-🔗 Inspiration: [solid mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md)  
-
-
-![desktop](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/desktop.png)
-![start1](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/start1.png)
-![start2](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/start2.png)
-![lockscreen](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/lockscreen.png)
-![explorer](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/explorer.png)
-![explorer+](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/explorer+.png)
-![ctrl+tab](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/ctrl+tab.png)
-![osd](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/osd.png)
-![input](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/input.png)
-
+![desktop](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Desktop.png)
+![notification center](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Notification%20Center.png)
+![explorer](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Properties.png)
+![systemtray & flow](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Flow%20Launcher%20%2B%20Systemtray.png)
 
 ### 1. Translucent Windows
 
@@ -31,18 +20,14 @@ This theme is not made by me, i just changed it to my liking :) — credit goes 
 
 [YAML FILE](./YAML/Windows%2011%20Start%20Menu%20Styler.yaml)
 
-> **📝 Optional:** If you want to apply the lock screen style, add `LockApp.exe` to the custom process list in the Windows 11 Start Menu Styler Advanced Tab and the Process inclusion list on Windhawk Settings > Advanced Settings
-
 ### 4. Windows 11 Taskbar Styler
 
 [YAML FILE](./YAML/Windows%2011%20Taskbar%20Styler.yaml)
 
-> **📝 Recommendation:** Turn Off Search on Taskbar from Settings > Personalization > Taskbar
-
 ### 5. Windows 11 Notification Center Styler
 
 [YAML FILE](./YAML/Windows%2011%20Notification%20Center%20Styler.yaml)
-⚠️ Change style constanst `screenfix` and `screenfx2` in settings tab to adjust it for your screen resolution.
+⚠️ Change style constanst `screenfix` and `screenfix2` in settings tab to adjust it for your screen resolution. (im on 1920x1080)
 
 > **📝 Optional:** If you want to apply this styling to the input and clipboard window, add `TextInputHost.exe` to the custom process list in the Windows 11 Notification Center Styler Advanced Tab and the Process inclusion list on Windhawk Settings > Advanced Settings.
 
@@ -64,16 +49,5 @@ No config, set on top on Settings tab.
 ### 10. Taskbar on top for Windows 11
 No config, use Settings tab.
 
-### 11. Taskbar ContentPresenter Injector
-No config, just install.
-
-### 🖱️ Cursor (I use the black + outline version)
+### 🖱️ Cursor
 [Minimalistic V3 cursor](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-cursor-909469275)
-
-### 🖼️ Wallpaper
-[Link](https://www.pexels.com/es-es/foto/foto-de-las-montanas-rocosas-1612364/)
-
----
-
-## 🧉 Made with cariño by [@Acercandr0](https://github.com/Acercandr0)
-Enjoy it. Fork it. Remix it. Make it yours.
