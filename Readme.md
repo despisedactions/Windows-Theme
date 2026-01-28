@@ -14,6 +14,7 @@ That’s also why there’s **no Start button**, I use **Flow Launcher** for eve
 ![Explorer + Notification Center](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Notification%20Center.png)
 ![Explorer + Properties](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Properties.png)
 ![Flow Launcher + System Tray](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Flow%20Launcher%20%2B%20Systemtray.png)
+![Alt + Tab](https://raw.githubusercontent.com/despisedactions/Frozen-Veil/refs/heads/main/Preview/alt%20%2B%20tab.png)
 
 ---
 
