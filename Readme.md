@@ -1,7 +1,7 @@
 
 # My Windows Theme 🪟
 
-A custom Windows theme inspired by [solid mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md) 
+A custom Windows theme made with Windhawk, inspired by [solid mist](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md) 
 
 ![desktop](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Desktop.png)
 ![notification center](https://raw.githubusercontent.com/despisedactions/Windows-Theme/refs/heads/main/Preview/Explorer%20%2B%20Notification%20Center.png)
