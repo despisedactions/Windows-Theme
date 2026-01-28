@@ -76,4 +76,4 @@ Enable via the **Settings** tab.
 ---
 
 ## 🖱️ Cursor
-[Minimalistic V3 Cursor](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-886489356)
+[Windows 11 Cursors Concept](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-886489356)
