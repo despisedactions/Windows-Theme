@@ -1,0 +1,11 @@
+theme: NoCommandBar
+controlStyles:
+  - target: ''
+    styles:
+      - ''
+styleConstants:
+  - ''
+resourceVariables:
+  - variableKey: ''
+    value: ''
+explorerFrameContainerHeight: 0
