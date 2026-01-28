@@ -1,1 +1,79 @@
 
+# My Windows Theme 🪟
+
+A custom Windows theme inspired by solid mist.
+
+This theme is not made by me, i just changed it to my liking :) — credit goes to the original **solid mist** theme for inspiration.
+
+🔗 Inspiration: [solid mist Theme](https://github.com/Acercandr0/Solid-Mist/blob/main/README.md)  
+
+
+![desktop](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/desktop.png)
+![start1](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/start1.png)
+![start2](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/start2.png)
+![lockscreen](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/lockscreen.png)
+![explorer](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/explorer.png)
+![explorer+](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/explorer+.png)
+![ctrl+tab](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/ctrl+tab.png)
+![osd](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/osd.png)
+![input](https://raw.githubusercontent.com/Acercandr0/Solid-Mist/main/Previews/input.png)
+
+
+### 1. Translucent Windows
+
+[YAML FILE](./YAML/Translucent%20Windows.yaml)
+
+### 2. Windows 11 File Explorer Styler
+
+[YAML FILE](./YAML/Windows%2011%20File%20Explorer%20Styler.yaml)
+
+### 3. Windows 11 Start Menu Styler
+
+[YAML FILE](./YAML/Windows%2011%20Start%20Menu%20Styler.yaml)
+
+> **📝 Optional:** If you want to apply the lock screen style, add `LockApp.exe` to the custom process list in the Windows 11 Start Menu Styler Advanced Tab and the Process inclusion list on Windhawk Settings > Advanced Settings
+
+### 4. Windows 11 Taskbar Styler
+
+[YAML FILE](./YAML/Windows%2011%20Taskbar%20Styler.yaml)
+
+> **📝 Recommendation:** Turn Off Search on Taskbar from Settings > Personalization > Taskbar
+
+### 5. Windows 11 Notification Center Styler
+
+[YAML FILE](./YAML/Windows%2011%20Notification%20Center%20Styler.yaml)
+⚠️ Change style constanst `screenfix` and `screenfx2` in settings tab to adjust it for your screen resolution.
+
+> **📝 Optional:** If you want to apply this styling to the input and clipboard window, add `TextInputHost.exe` to the custom process list in the Windows 11 Notification Center Styler Advanced Tab and the Process inclusion list on Windhawk Settings > Advanced Settings.
+
+### 6. Taskbar Clock Customization
+
+[YAML FILE](./YAML/Taskbar%20Clock%20Customization.yaml)
+
+### 7. Taskbar Tray Icon Spacing
+
+[YAML FILE](./YAML/Taskbar%20Tray%20Icon%20Spacing.yaml)
+
+### 8. Taskbar height and icon size
+
+[YAML FILE](./YAML/Taskbar%20height%20and%20icon%20size.yaml)
+
+### 9. Customize Windows notifications placement
+No config, set on top on Settings tab.
+
+### 10. Taskbar on top for Windows 11
+No config, use Settings tab.
+
+### 11. Taskbar ContentPresenter Injector
+No config, just install.
+
+### 🖱️ Cursor (I use the black + outline version)
+[Minimalistic V3 cursor](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-cursor-909469275)
+
+### 🖼️ Wallpaper
+[Link](https://www.pexels.com/es-es/foto/foto-de-las-montanas-rocosas-1612364/)
+
+---
+
+## 🧉 Made with cariño by [@Acercandr0](https://github.com/Acercandr0)
+Enjoy it. Fork it. Remix it. Make it yours.
