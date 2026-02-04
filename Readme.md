@@ -62,6 +62,9 @@ Change the style constants `screenfix` and `screenfix2` in the **Settings** tab 
 ### 7. Taskbar Music Lounge
 [YAML / Config](./Config/Taskbar%20Music%20Lounge.yaml)
 
+> **Note:** This setup uses the Taskbar Music Lounge version from 
+> https://github.com/ramensoftware/windhawk-mods/pull/2856
+
 ---
 
 ### 8. Customize Windows Notifications Placement
