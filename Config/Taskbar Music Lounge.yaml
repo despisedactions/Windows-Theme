@@ -1,8 +1,12 @@
-PanelWidth: 350
-PanelHeight: 31
-FontSize: 13
-OffsetX: 10
+PanelWidth: 400
+PanelHeight: 36
+FontSize: 12
+ButtonScale: 1
+HideFullscreen: 1
+IdleTimeout: 0
+OffsetX: 4
 OffsetY: 0
 AutoTheme: 1
 TextColor: 16777215
-BgOpacity: 255
+BgOpacity: 0
+
